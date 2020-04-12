@@ -1,0 +1,338 @@
+﻿  raudio.c
+c:\raylib\raylib\src\external\stb_vorbis.h(4989): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\raylib\raylib\src\external\jar_xm.h(143): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\external\jar_xm.h(144): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+c:\raylib\raylib\src\external\jar_xm.h(162): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\external\jar_xm.h(163): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+c:\raylib\raylib\src\external\jar_xm.h(1463): warning C4244: '=': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+c:\raylib\raylib\src\external\jar_xm.h(1476): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+c:\raylib\raylib\src\external\jar_xm.h(1478): warning C4244: 'initializing': conversion from 'float' to 'int8_t', possible loss of data
+c:\raylib\raylib\src\external\jar_xm.h(1749): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
+c:\raylib\raylib\src\external\jar_xm.h(1784): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\external\jar_xm.h(2237): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\external\jar_xm.h(2372): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\jar_xm.h(2569): warning C4244: '+=': conversion from 'float' to 'uint64_t', possible loss of data
+c:\raylib\raylib\src\external\jar_xm.h(2629): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\external\jar_xm.h(2611): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\raylib\raylib\src\external\jar_mod.h(1529): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\raylib\raylib\src\raudio.c(798): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\raudio.c(781): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\raylib\raylib\src\raudio.c(1858): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\raylib\raylib\src\raudio.c(1977): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  core.c
+c:\raylib\raylib\src\rlgl.h(1646): warning C4090: 'function': different 'const' qualifiers
+c:\raylib\raylib\src\external\dirent.h(114): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\external\dirent.h(114): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\core.c(1653): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\core.c(1716): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\raylib\raylib\src\core.c(1717): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\raylib\raylib\src\core.c(1718): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\raylib\raylib\src\core.c(1719): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\raylib\raylib\src\core.c(1790): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\raylib\raylib\src\core.c(1793): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\core.c(1798): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\raylib\raylib\src\core.c(1801): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\core.c(1806): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\raylib\raylib\src\core.c(1785): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\core.c(1871): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\core.c(1914): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\core.c(1981): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\core.c(2028): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\raylib\raylib\src\core.c(2042): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\core.c(2049): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\raylib\raylib\src\core.c(2092): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\core.c(2204): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\core.c(2277): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\core.c(2316): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\raylib\raylib\src\core.c(2842): warning C4018: '>=': signed/unsigned mismatch
+c:\raylib\raylib\src\core.c(2844): warning C4018: '>=': signed/unsigned mismatch
+c:\raylib\raylib\src\core.c(4128): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  models.c
+c:\raylib\raylib\src\external\tinyobj_loader_c.h(749): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\raylib\raylib\src\external\cgltf.h(751): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\raylib\raylib\src\external\cgltf.h(987): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\external\cgltf.h(991): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\external\cgltf.h(986): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\raylib\raylib\src\external\cgltf.h(1397): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\raylib\raylib\src\external\cgltf.h(1402): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\raylib\raylib\src\external\cgltf.h(1949): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\raylib\raylib\src\external\cgltf.h(1959): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\raylib\raylib\src\external\cgltf.h(2038): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\raylib\raylib\src\external\par_shapes.h(273): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(305): warning C4305: 'function': truncation from 'double' to 'float'
+c:\raylib\raylib\src\external\par_shapes.h(335): warning C4305: 'function': truncation from 'double' to 'float'
+c:\raylib\raylib\src\external\par_shapes.h(346): warning C4305: 'function': truncation from 'double' to 'float'
+c:\raylib\raylib\src\external\par_shapes.h(470): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\raylib\raylib\src\external\par_shapes.h(534): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(535): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(543): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(544): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(568): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(559): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(560): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(576): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(586): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(587): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(609): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(611): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(612): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(618): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(619): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(620): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(601): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(602): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(603): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(604): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(605): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(606): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(670): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(671): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(695): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(669): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(805): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\raylib\raylib\src\external\par_shapes.h(853): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\raylib\raylib\src\external\par_shapes.h(953): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\raylib\raylib\src\external\par_shapes.h(1150): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\external\par_shapes.h(1181): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\external\par_shapes.h(1284): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(1286): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(1288): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(1290): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(1151): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\raylib\raylib\src\external\par_shapes.h(1155): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\raylib\raylib\src\external\par_shapes.h(1165): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\raylib\raylib\src\external\par_shapes.h(1182): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\raylib\raylib\src\external\par_shapes.h(1184): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\raylib\raylib\src\external\par_shapes.h(1206): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: see declaration of 'strtok'
+c:\raylib\raylib\src\external\par_shapes.h(1447): warning C4305: 'function': truncation from 'double' to 'float'
+c:\raylib\raylib\src\external\par_shapes.h(1464): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(1465): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(1466): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(1468): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(1748): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\external\par_shapes.h(1717): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\models.c(144): warning C4305: 'function': truncation from 'double' to 'float'
+c:\raylib\raylib\src\models.c(788): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\raylib\raylib\src\models.c(864): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(999): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(1007): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(1009): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\models.c(1013): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(1017): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(1019): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(1106): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(957): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\raylib\raylib\src\models.c(2459): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+c:\raylib\raylib\src\models.c(2460): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+c:\raylib\raylib\src\models.c(2461): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+c:\raylib\raylib\src\models.c(2462): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+c:\raylib\raylib\src\models.c(2848): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\models.c(2898): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(2935): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(2849): warning C4996: 'chdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _chdir. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\direct.h(102): note: see declaration of 'chdir'
+c:\raylib\raylib\src\models.c(2971): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+c:\raylib\raylib\src\models.c(2975): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+c:\raylib\raylib\src\models.c(2982): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+c:\raylib\raylib\src\models.c(2993): warning C4996: 'chdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _chdir. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\direct.h(102): note: see declaration of 'chdir'
+c:\raylib\raylib\src\models.c(3176): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(3191): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(3201): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(3204): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(3218): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(3221): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(3235): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(3238): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(3251): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(3254): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(3267): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(3270): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(3289): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(3109): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\raylib\raylib\src\models.c(3459): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(3552): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(3633): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(3635): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(3637): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(3645): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(3652): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(3661): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(3679): warning C4018: '<': signed/unsigned mismatch
+c:\raylib\raylib\src\models.c(3519): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  rglfw.c
+c:\raylib\raylib\src\external\glfw\src\context.c(407): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+c:\raylib\raylib\src\external\glfw\src\init.c(120): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\external\glfw\src\init.c(173): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\external\glfw\src\init.c(175): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\external\glfw\src\init.c(177): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\external\glfw\src\init.c(179): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\external\glfw\src\init.c(181): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\external\glfw\src\init.c(183): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\external\glfw\src\init.c(185): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\external\glfw\src\init.c(187): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\external\glfw\src\init.c(189): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\external\glfw\src\init.c(191): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\external\glfw\src\init.c(193): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\external\glfw\src\init.c(195): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\external\glfw\src\init.c(215): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\external\glfw\src\input.c(441): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\raylib\raylib\src\external\glfw\src\window.c(428): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\raylib\raylib\src\external\glfw\src\window.c(432): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\raylib\raylib\src\external\glfw\src\window.c(436): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\raylib\raylib\src\external\glfw\src\win32_joystick.c(455): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\raylib\raylib\src\external\glfw\src\win32_joystick.c(463): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\raylib\raylib\src\external\glfw\src\win32_joystick.c(559): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\raylib\raylib\src\external\glfw\src\win32_joystick.c(750): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\raylib\raylib\src\external\glfw\src\win32_joystick.c(751): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\raylib\raylib\src\external\glfw\src\win32_monitor.c(104): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\external\glfw\src\win32_monitor.c(113): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  shapes.c
+c:\raylib\raylib\src\shapes.c(222): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\raylib\raylib\src\shapes.c(228): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\shapes.c(316): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\raylib\raylib\src\shapes.c(322): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\shapes.c(368): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\shapes.c(410): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\shapes.c(464): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\raylib\raylib\src\shapes.c(477): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\shapes.c(560): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\raylib\raylib\src\shapes.c(572): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\shapes.c(773): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\raylib\raylib\src\shapes.c(997): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  text.c
+c:\raylib\raylib\src\text.c(948): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\text.c(1142): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1469): note: see declaration of 'vsprintf'
+c:\raylib\raylib\src\text.c(1218): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\text.c(1223): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\text.c(1217): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\raylib\raylib\src\text.c(1263): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\text.c(1268): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\text.c(1321): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\text.c(1431): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\raylib\raylib\src\text.c(1661): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\raylib\raylib\src\text.c(1676): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+c:\raylib\raylib\src\text.c(1684): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+c:\raylib\raylib\src\text.c(1690): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+c:\raylib\raylib\src\text.c(1709): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(266): note: see declaration of 'strncat'
+c:\raylib\raylib\src\text.c(1710): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(266): note: see declaration of 'strncat'
+c:\raylib\raylib\src\text.c(1738): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: see declaration of 'sscanf'
+  textures.c
+c:\raylib\raylib\src\textures.c(707): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(873): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\textures.c(854): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\raylib\raylib\src\textures.c(1296): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1305): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1308): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1309): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1310): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1311): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1312): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1313): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1317): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1318): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1319): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1320): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1321): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1322): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1291): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1332): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1414): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1543): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1544): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1550): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1551): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1497): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1502): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1508): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1513): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1958): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\raylib\raylib\src\textures.c(1964): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1965): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1992): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\raylib\raylib\src\textures.c(1998): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\raylib\raylib\src\textures.c(2015): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\raylib\raylib\src\textures.c(2016): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\raylib\raylib\src\textures.c(2017): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\raylib\raylib\src\textures.c(2018): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\raylib\raylib\src\textures.c(2247): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+c:\raylib\raylib\src\textures.c(2248): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+c:\raylib\raylib\src\textures.c(2249): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+c:\raylib\raylib\src\textures.c(2250): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+c:\raylib\raylib\src\textures.c(3129): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\raylib\raylib\src\textures.c(3402): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\raylib\raylib\src\textures.c(3487): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\raylib\raylib\src\textures.c(3501): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+c:\raylib\raylib\src\textures.c(3730): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  utils.c
+c:\raylib\raylib\src\utils.c(146): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\utils.c(147): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\utils.c(148): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\utils.c(149): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\utils.c(150): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\utils.c(151): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\utils.c(155): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\utils.c(156): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\raylib\raylib\src\utils.c(175): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\raylib\raylib\src\utils.c(212): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\raylib\raylib\src\utils.c(237): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\raylib\raylib\src\utils.c(278): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  raylib.vcxproj -> C:\raylib\raylib\projects\MormertPong\\bin\Win32\Release\raylib.lib
